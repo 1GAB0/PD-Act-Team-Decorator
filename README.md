@@ -1,3 +1,3 @@
 # PD-Act-Team-Decorator
 
-## [Documentacion](Patrón Decorador - Bridge.pdf)
+## [Documentacion](Patrón%20Decorador%20-%20Bridge.pdf)
